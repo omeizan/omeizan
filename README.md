@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @omeizan
-- 👀 I’m interested in Game development
-- 🌱 I’m currently learning Java, Unty 2d and 3d C## for gameplay programming
+- 👋 Hi, I’M Noel Omeiza
+- 🌱 I’m have experience building object-oriented programs in Java,JavaScript and C++;
+- I also have experience in web development using HTML,CSS,Javascript,AJAX,and ReactJS
+- 
 
 
 <!---
