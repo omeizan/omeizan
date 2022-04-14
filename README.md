@@ -1,6 +1,6 @@
 - 👋 Hi, I’M Noel Omeiza
-- 🌱 I’m have experience building object-oriented programs in Java,JavaScript and C++;
-- I also have experience in web development using HTML,CSS,Javascript,AJAX,and ReactJS
+- 🌱 I’m have experience building object-oriented programs in Java, JavaScript and C++;
+-  and web development using HTML,CSS,Javascript,Python.Django,AJAX,and ReactJS
 - 
 
 
